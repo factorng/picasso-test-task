@@ -1,0 +1,6 @@
+.post__description{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    width:500px;
+}
